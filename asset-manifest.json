@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moviland/static/css/main.2ff9f85b.css",
+    "main.js": "/moviland/static/js/main.8385fc17.js",
+    "static/js/787.9cf55b5e.chunk.js": "/moviland/static/js/787.9cf55b5e.chunk.js",
+    "index.html": "/moviland/index.html",
+    "static/media/search.svg": "/moviland/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.2ff9f85b.css.map": "/moviland/static/css/main.2ff9f85b.css.map",
+    "main.8385fc17.js.map": "/moviland/static/js/main.8385fc17.js.map",
+    "787.9cf55b5e.chunk.js.map": "/moviland/static/js/787.9cf55b5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff9f85b.css",
+    "static/js/main.8385fc17.js"
+  ]
+}
